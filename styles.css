@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+body {
+	background-color: #1f252a;
+	color: white;
+}
+#name {
+	text-align: center;
+}
+#anchor {
+	color: aqua;
+	
+}
